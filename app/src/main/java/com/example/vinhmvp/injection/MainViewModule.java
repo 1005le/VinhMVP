@@ -9,7 +9,7 @@ import dagger.Module;
 import dagger.Provides;
 
 @Module
-public final class MainViewModule {
+public class MainViewModule {
 
 //    @Provides
 //    public MainInteractor provideInteractor() {

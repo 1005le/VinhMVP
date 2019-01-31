@@ -8,7 +8,7 @@ import com.example.vinhmvp.view.MainView;
 
 import java.util.List;
 
-public final class MainPresenterImpl extends BasePresenterImpl<MainView> implements MainPresenter,MainInteractor  {
+public class MainPresenterImpl extends BasePresenterImpl<MainView> implements MainPresenter,MainInteractor  {
     /**
      * The interactor
      */
@@ -56,7 +56,6 @@ public final class MainPresenterImpl extends BasePresenterImpl<MainView> impleme
     public void onResume() {
         view.showProgress();
         mainInteractorImpl.getCategories(this);
-
     }
 
     @Override

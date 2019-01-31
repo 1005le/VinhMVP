@@ -11,11 +11,10 @@ import java.util.List;
 
 import javax.inject.Inject;
 
-public final class MainInteractorImpl implements MainInteractor {
+public class MainInteractorImpl implements MainInteractor {
     @Inject
     public MainInteractorImpl() {
     }
-
     @Override
     public void onLoadCategories(List<Category> categories) {
     }

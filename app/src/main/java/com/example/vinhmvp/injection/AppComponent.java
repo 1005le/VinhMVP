@@ -13,7 +13,6 @@ public interface AppComponent {
     //chuyen class thanh interface
 
     void inject(CategoryApplication categoryApplication);
-
      MainInteractorImpl getFindItemsInteractor();
 
 }

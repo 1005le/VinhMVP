@@ -6,6 +6,5 @@ import com.example.vinhmvp.view.MainView;
 public interface MainPresenter extends BasePresenter<MainView> {
 
     void onResume();
-
     void onItemSelected(Category category, int position);
 }

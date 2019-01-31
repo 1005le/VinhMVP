@@ -32,6 +32,9 @@ import com.example.vinhmvp.model.Category;
 import java.util.Collections;
 import java.util.List;
 
+import butterknife.BindView;
+import butterknife.ButterKnife;
+
 public class CategoryAdapter extends RecyclerView.Adapter<CategoryAdapter.CategoryViewHolder> {
 
   private List<Category> categories;
@@ -93,19 +96,17 @@ public class CategoryAdapter extends RecyclerView.Adapter<CategoryAdapter.Catego
     void onItemClick(Category category, int position);
   }
 
-
-
   public static class CategoryViewHolder extends RecyclerView.ViewHolder {
 
-   // @BindView(R.id.image_category_icon)
+    @BindView(R.id.image_category_icon)
     ImageView imageView;
 
-  //  @BindView(R.id.label_category_name)
+    @BindView(R.id.label_category_name)
     TextView textView;
 
     public CategoryViewHolder(View itemView) {
       super(itemView);
-   //   ButterKnife.bind(this, itemView);
+     ButterKnife.bind(this, itemView);
     }
   }
 

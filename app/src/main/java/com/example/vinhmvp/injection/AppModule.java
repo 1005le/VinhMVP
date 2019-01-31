@@ -6,8 +6,10 @@ import com.example.vinhmvp.CategoryApplication;
 
 import javax.inject.Singleton;
 
+import dagger.Module;
 import dagger.Provides;
 
+@Module
 public class AppModule {
     private CategoryApplication categoryApplication;
 

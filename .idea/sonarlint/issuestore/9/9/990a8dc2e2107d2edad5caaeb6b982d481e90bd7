@@ -1,4 +1,6 @@
 
-?squid:S1185"(Remove this method to simply inherit it.(î³òĞ
-Dsquid:S1185%"(Remove this method to simply inherit it.(ÇÅ’—şÿÿÿÿ
-Dsquid:S1185"(Remove this method to simply inherit it.(º£”úÿÿÿÿ
+Fsquid:S1185"(Remove this method to simply inherit it.(î³òĞ8•Âêî‰-
+Ksquid:S1185"(Remove this method to simply inherit it.(º£”úÿÿÿÿ8•Âêî‰-
+isquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(õ±¾»8€˜™ì‰-
+Ksquid:S1185$"(Remove this method to simply inherit it.(ÇÅ’—şÿÿÿÿ8•Âêî‰-
+dsquid:S3457@"AFormat specifiers should be used instead of string concatenation.(ÄÉ¤ıÿÿÿÿ8ä„›ì‰-
