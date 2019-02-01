@@ -17,10 +17,6 @@ s
 Capp/src/main/java/com/example/vinhmvp/injection/MainViewModule.java,d\d\dda77d6c1ba5708faadaedfa44c5b1448bdd1bfb
 h
 8app/src/main/java/com/example/vinhmvp/view/MainView.java,6\1\61c707f4a2b11db280063185b2c2a3ec70f8990a
-w
-Gapp/src/main/java/com/example/vinhmvp/view/loader/PresenterFactory.java,c\d\cd1f05a78e8e5c5941568f0f1ebeeeb9fac4bec9
-u
-Eapp/src/main/java/com/example/vinhmvp/view/impl/PresenterFactory.java,6\c\6c32f20e143366135a48c51cbdf494f2f3e2ba3f
 €
 Papp/src/test/java/com/example/vinhmvp/injection/DaggerMainViewComponentTest.java,b\1\b1e612caa567bffed973d5b3747779324e13375e
 r

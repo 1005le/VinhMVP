@@ -43,7 +43,6 @@ public class MainPresenterImpl extends BasePresenterImpl<MainView> implements Ma
     }
 
 
-
     //them , categories = MainInteracterImpl, call back = MainInteracter
     private MainView view;
     private MainInteractorImpl mainInteractorImpl;

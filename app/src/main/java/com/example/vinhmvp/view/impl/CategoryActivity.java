@@ -66,8 +66,8 @@ public class CategoryActivity extends BaseActivity implements MainView, Category
 
     @Override
     public void onItemClick(Category category, int position) {
-
     }
+
 
     @Override
     public void showProgress() {

@@ -12,4 +12,5 @@ public interface MainViewComponent {
     void inject(CategoryActivity activity);
 //Them moi
     MainPresenter getMainPresenter();
+
 }
